@@ -37,3 +37,9 @@
     * Build - Windows and Linux 
     * Analysis
     * Code Quality - Online tools
+
+# Practice
+* Certificates
+* System Setup
+* [HackerEarth] -(https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/)
+* Project
