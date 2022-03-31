@@ -12,7 +12,7 @@ The goal of this project is to assess the participants knowledge on music of the
 * An opportunity to know on variety of songs.
 * Excellent stress reliever for everyone.
 * Develops the ability to think quickly on one's feet.
-* 
+
 
 ## Cost and Features
 The cost for implementing a project involving quiz game is minimal none. And the features are:
