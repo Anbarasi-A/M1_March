@@ -8,3 +8,14 @@
 [![Unit Testing - Unity](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/unittesting.yml/badge.svg)](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/unittesting.yml)
 ### Codacy
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef813e60b86e4d4f81b02ac6e8faaa21)](https://www.codacy.com/gh/Anbarasi-A/M1_MusicQuizGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anbarasi-A/M1_MusicQuizGame&amp;utm_campaign=Badge_Grade)
+
+
+## Folder Structure
+| Folder | Description |
+| -------|:------------|
+| 1_Requirements | Documents detailing requirements |
+| 2_Architecture | Documents specifying architecture details |
+| 3_Implementation | All code and documentation |
+| 4_TestPlanAndOutput | Documents with test plan and procedures |
+| 5_Report | Documentation of whole project |
+| 6_ImagesAndVideos | All output of the project |

@@ -1,7 +1,22 @@
-
+/**
+ * @file main.c
+ * @author Anbarasi.A (e8me199@sairamtap.edu.in)
+ * @brief This is the main program where the projecy is run
+ * @version 0.1
+ * @date 2022-04-01
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
+/* Start of the application */
+/**
+ * @brief Main program
+ * 
+ * @return int 
+ */
 int main()
 {
     FILE *file;
