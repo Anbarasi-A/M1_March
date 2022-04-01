@@ -12,6 +12,8 @@
 ![Codiga](https://api.codiga.io/project/32350/score/svg)
 ### Build on Windows
 [![Build CI - Windows](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/build_windows.yml)
+### Valgrind
+[![Valgrind](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/valgrind.yml)
 ## Folder Structure
 | Folder | Description |
 | -------|:------------|
