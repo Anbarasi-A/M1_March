@@ -10,7 +10,8 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/ef813e60b86e4d4f81b02ac6e8faaa21)](https://www.codacy.com/gh/Anbarasi-A/M1_MusicQuizGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Anbarasi-A/M1_MusicQuizGame&amp;utm_campaign=Badge_Grade)
 ### Codiga
 ![Codiga](https://api.codiga.io/project/32350/score/svg)
-
+### Build on Windows
+[![Build CI - Windows](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/build_windows.yml/badge.svg)](https://github.com/Anbarasi-A/M1_MusicQuizGame/actions/workflows/build_windows.yml)
 ## Folder Structure
 | Folder | Description |
 | -------|:------------|
